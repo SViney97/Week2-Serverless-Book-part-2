@@ -1,4 +1,5 @@
 # Week2ServerlessBook
+![week2serverless](https://user-images.githubusercontent.com/58524678/110340867-a4acdb80-8021-11eb-89d9-c93e7f362eb4.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.0.
 
